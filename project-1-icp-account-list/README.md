@@ -31,15 +31,21 @@ This is a test build on public company data. There is no client data, so the res
 
 | Iteration | Change | Companies found |
 |---|---|---|
-| 1 | Industry-led filters (Farming, Ranching, Forestry), B2B, agriculture software subindustries | ~799 (mostly crop tech and hydroponics) |
-| 2 | Added description keywords: livestock, cattle, dairy, swine, poultry, herd, animal health, veterinary | ~98 |
+| 1 | Industry-led filters (Farming, Ranching, Forestry), B2B, agriculture software subindustries | ~799
+      (mostly crop tech and hydroponics) |
+| 2 | Added description keywords: livestock, cattle, dairy, swine, poultry, herd, animal health, veterinary |
+      ~98 |
 | 3 | Broadened industries (biotech research, veterinary, dairy and meat manufacturing, ranching) | ~350 |
-| 4 | Removed the noisiest industries | ~196 |
-| 5 | Removed Ranching and a production-focused subindustry | ~148 (142 imported) |
+| 4 | Narrowed the industry list from 7 values to 4 (for example, removing Ranching) | ~196, then ~148 (142 
+      imported) |
+| 5 | Re-sourced after the first fit check scored 30% | 103 imported |
 | 6 | Re-sourced after the first fit check scored 30% | 103 imported |
 
-[TODO: add the specific filters changed in iteration 6.]
+**Industry filter, iteration 3 to 4:**
 
+- Before (7 values): Farming, Ranching, Forestry; Biotechnology; Biotechnology Research; Dairy Product Manufacturing; Meat Products Manufacturing; Ranching; Veterinary
+- After (4 values): Farming, Ranching, Forestry; Biotechnology Research; Veterinary; Farming
+                                          
 Search counts are Clay's approximate "found" figures. The imported table counts are the actual numbers.
 
 ## Cleaning the final list
@@ -107,15 +113,12 @@ Neither draw was a fully random sample.
 
 ## Cost and effort
 
-- Credits used for this project: [TODO: starting balance minus current balance]
-- Time spent: [TODO: hours]
+- Credits used for this project: 0 (starting balance 1,000, ending balance 1,000). Sourcing, cleanup and the fit check were done without spending credits.
 
 ## Screenshots
 
 ![Final 50-account table, part A](screenshots/project-1-final-tableA.png)
 ![Final 50-account table, part B](screenshots/project-1-final-tableB.png)
-
-[TODO: add one screenshot of the final table, with any sensitive details blurred.]
 
 ## Next
 
