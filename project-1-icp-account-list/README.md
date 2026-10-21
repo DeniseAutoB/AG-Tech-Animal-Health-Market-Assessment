@@ -112,7 +112,8 @@ Neither draw was a fully random sample.
 
 ## Screenshots
 
-![Final 50-account table](screenshots/project-1-final-table.png)
+![Final 50-account table, part A](screenshots/project-1-final-tableA.png)
+![Final 50-account table, part B](screenshots/project-1-final-tableB.png)
 
 [TODO: add one screenshot of the final table, with any sensitive details blurred.]
 
