@@ -41,7 +41,6 @@ Rule: keep one contact per company, and a result counts only if the person still
 | Valid emails (validation provider) | [TODO: count from the Validate columns] |
 | Credits used | **About 20.5 of 1,000** (about 0.8 per contact, including some test rows) |
 | Title match in my first 17-person hand check | 15 of 17 (88%) |
-| Time spent | [TODO: hours] |
 
 The 3 blanks are contacts where no provider returned an email, which is a real result, not an error.
 
@@ -73,7 +72,7 @@ The waterfall tries email providers in order and **stops at the first valid resu
 
 ## Screenshots
 
-[TODO: add one screenshot of the final table with names, emails and LinkedIn URLs blurred.]
+![Final 50-account table, part A](screenshots/project-1-final-tableA.png)
 
 ## Next
 
