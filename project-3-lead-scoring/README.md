@@ -66,8 +66,7 @@ This is a test build on public company data. **No names, emails or LinkedIn URLs
 - Add intent signals (hiring, funding, news) as a third scoring group.
 
 ## Cost and effort
-
-- Credits used: none expected for formula columns. Current Credit Balance 976.4 of 1,000
+- Credits used for this project: 11.6 (starting balance 988, ending balance 976.4). 
 
 ## Screenshots
 
