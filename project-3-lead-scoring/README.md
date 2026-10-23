@@ -71,8 +71,6 @@ This is a test build on public company data. **No names, emails or LinkedIn URLs
 
 ## Screenshots
 
-[TODO: add one screenshot of the scored table with names, emails and LinkedIn URLs blurred.]
-
-## Next
+![Find People List](screenshots/complete-and-final-people-list/png)
 
 The campaign setup uses these scores to decide who is contacted first.
