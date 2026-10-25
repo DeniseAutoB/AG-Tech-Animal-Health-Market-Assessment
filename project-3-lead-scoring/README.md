@@ -70,6 +70,6 @@ This is a test build on public company data. **No names, emails or LinkedIn URLs
 
 ## Screenshots
 
-![Scored contacts table with personal data hidden](screenshots/complete-and-final-people-list.png)
+![Scored contacts table with personal data hidden](screenshots/final-people-list.png)
 
 The campaign setup uses these scores to decide who is contacted first.
