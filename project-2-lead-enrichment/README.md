@@ -39,7 +39,7 @@ Rule: keep one contact per company, and a result counts only if the person still
 | Companies with a hand-verified fit contact | **26 (52%)** |
 | Emails found | **23 of 26 (88%)** |
 | Valid emails (validation provider) | **23 of 23 found (100%)** |
-| Credits used | **About 20.5 of 1,000** (about 0.8 per contact, including some test rows) |
+| Credits used | **23.6 data credits and 79 actions** (balance 1,000 to 976.4), all on email lookups and validation: about 0.9 credits per contact and 1.0 per email found, including test runs and reruns |
 | Title match in my first 17-person hand check | 15 of 17 (88%) |
 
 All found emails are valid by design: the waterfall accepts an email only after a validator passes it, so the more informative figure is the find rate (23 of 26 contacts, 88%).
@@ -48,7 +48,7 @@ The 3 blanks are contacts where no provider returned an email, which is a real r
 
 ## How the email waterfall works
 
-The waterfall tries email providers in order and **stops at the first valid result**, so later providers only run (and only cost credits) when earlier ones find nothing. In my first test, the contacts with no email went through every provider in the chain and none found one. That is the cost control: I pay for the next lookup only when the previous one comes up empty.
+The waterfall tries email providers in order and **stops at the first valid result**, so later providers only run (and only cost credits) when earlier ones find nothing. In my first test, the contacts with no email went through every provider in the chain and none found one. That is the cost control: I pay for the next lookup only when the previous one comes up empty. A clean lookup plus validation cost about 0.3 credits; the higher all-in figure above includes test runs and reruns.
 
 ## Lessons learned
 
