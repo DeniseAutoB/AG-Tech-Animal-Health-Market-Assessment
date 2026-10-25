@@ -38,9 +38,11 @@ Rule: keep one contact per company, and a result counts only if the person still
 | Companies targeted | 50 |
 | Companies with a hand-verified fit contact | **26 (52%)** |
 | Emails found | **23 of 26 (88%)** |
-| Valid emails (validation provider) | 23 |
+| Valid emails (validation provider) | **23 of 23 found (100%)** |
 | Credits used | **About 20.5 of 1,000** (about 0.8 per contact, including some test rows) |
 | Title match in my first 17-person hand check | 15 of 17 (88%) |
+
+All found emails are valid by design: the waterfall accepts an email only after a validator passes it, so the more informative figure is the find rate (23 of 26 contacts, 88%).
 
 The 3 blanks are contacts where no provider returned an email, which is a real result, not an error.
 
