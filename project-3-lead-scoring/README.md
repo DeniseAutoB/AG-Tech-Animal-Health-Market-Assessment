@@ -65,8 +65,9 @@ This is a test build on public company data. **No names, emails or LinkedIn URLs
 - Hand-verify the remaining companies, or use an AI column to judge livestock relevance for every row and spot-check it.
 - Add intent signals (hiring, funding, news) as a third scoring group.
 
-## Cost and effort
-- Credits used for this project: 11.6 (starting balance 988, ending balance 976.4). 
+## Cost 
+
+- Credits used: none. Clay's usage history shows all 23.6 credits spent in this build went to email lookups and validation (Project 2); the scoring formula columns used no credits.
 
 ## Screenshots
 
