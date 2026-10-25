@@ -38,7 +38,7 @@ Rule: keep one contact per company, and a result counts only if the person still
 | Companies targeted | 50 |
 | Companies with a hand-verified fit contact | **26 (52%)** |
 | Emails found | **23 of 26 (88%)** |
-| Valid emails (validation provider) | [TODO: count from the Validate columns] |
+| Valid emails (validation provider) | 23 |
 | Credits used | **About 20.5 of 1,000** (about 0.8 per contact, including some test rows) |
 | Title match in my first 17-person hand check | 15 of 17 (88%) |
 
@@ -72,7 +72,7 @@ The waterfall tries email providers in order and **stops at the first valid resu
 
 ## Screenshots
 
-![Final 50-account table, part A](screenshots/project-1-final-tableA.png)
+![Enrichment table with personal data hidden](screenshots/project-2-enrichment-table.png)
 
 ## Next
 
