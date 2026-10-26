@@ -8,7 +8,7 @@ Add a timing layer to the score from Project 3. Fit says who a company is. Signa
 
 This is a test build on public company data. **No names, emails or LinkedIn URLs are stored in this repo.**
 
-## Signals and rules
+## Signals and Rules
 
 I defined both rules before looking at any results.
 
@@ -41,7 +41,8 @@ I used one-time lookups, not Clay's recurring signal monitors, so spending staye
 | Companies with news of any age | **3 of 23] |
 | Hiring spot-check on LinkedIn | 4 of 4 agreed with the tool |
 | News articles hand-checked | 2 of 2 were real |
-| Contacts whose rank changed under Priority Score | [TODO: count] |
+| Contacts whose rank changed under Priority Score | 3 gained signal points; 7 of 23 changed position; the top-ranked contact
+  changed (ties broken alphabetically by company) |
 
 **Credits:** the hiring lookup cost about 0.5 credits, and the news lookup about 11.5 (2.5 for the 5-row test and about 9 for the rest). That is roughly 12 credits for the project, and about 35.6 for the whole build. 
 
