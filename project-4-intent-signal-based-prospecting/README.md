@@ -79,7 +79,7 @@ I used one-time lookups, not Clay's recurring signal monitors, so spending staye
 ## Screenshots
 
 ![Intent signal based table with personal data hidden](screenshots/intent-signal-based-prospecting.png)
-
+![Top Ranked Contact Changed table with personal data hidden](screenshots/top-ranked-contect-changed.png)
 
 ## Next
 
