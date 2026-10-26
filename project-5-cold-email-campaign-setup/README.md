@@ -77,6 +77,7 @@ I checked DNS with a free outside tool, because the sending platform did not sho
 ## Screenshots
 
 Campaign (Leaders)
+
 ![Leaders Campaign Analytics](screenshots/campaign-analytics.png)
 ![Leaders Campaign Delivery Schedule](screenshots/campaign-delivery-schedule.png)
 ![Leaders Campaign Email Setup](screenshots/campaign-emails.png)
@@ -85,6 +86,7 @@ Campaign (Leaders)
 ![Leaders Campaign Plain Text Setting](screenshots/campaign-plain-text-email.png)
 
 Campaign (Sales & Marketing)
+
 ![Sales & Marketing Campaign Analytics](screenshots/campaign-two-analytics.png)
 ![Sales & Marketing Campaign Delivery Schedule](screenshots/campaign-two-delivery-schedule.png)
 ![Sales & Marketing Campaign Email Setup](screenshots/campaign-two-emails.png)
