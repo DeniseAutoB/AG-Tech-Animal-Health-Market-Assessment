@@ -38,11 +38,12 @@ I used one-time lookups, not Clay's recurring signal monitors, so spending staye
 | Companies with any open job | 1 of 23 (a cost accountant, which is not a go-to-market role) |
 | Companies with fresh news (last 90 days) | **3 of 23 (13%)** |
 | Companies with no fresh news | 20 of 23 (87%) |
-| Companies with news of any age | **3 of 23] |
+| Companies with news of any age | **13 of 23] |
 | Hiring spot-check on LinkedIn | 4 of 4 agreed with the tool |
 | News articles hand-checked | 2 of 2 were real |
-| Contacts whose rank changed under Priority Score | 3 gained signal points; 7 of 23 changed position; the top-ranked contact
-  changed (ties broken alphabetically by company) |
+| Contacts whose rank changed under Priority Score | 3 gained signal points (10 each). As they moved up, 16 of 23 contacts shifted 
+  position and 7 stayed put. One contact entered the top 10 (from 19th to 8th), one dropped out, and the top-ranked contact 
+  changed. Ties broken alphabetically by company. |
 
 **Credits:** the hiring lookup cost about 0.5 credits, and the news lookup about 11.5 (2.5 for the 5-row test and about 9 for the rest). That is roughly 12 credits for the project, and about 35.6 for the whole build. 
 
