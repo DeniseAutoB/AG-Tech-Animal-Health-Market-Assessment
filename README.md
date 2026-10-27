@@ -15,11 +15,11 @@ ICP and account list  →  Lead enrichment  →  Lead scoring  →  Signals  →
 
 | Project | What I built | Headline result |
 |---|---|---|
-| [1. ICP and account list](./project-1-icp-account-list) | A written ICP and a 50-account target list sourced in Clay | Hand-checked pass rate rose from **30% to 60%** (70% on relevance alone) after I changed the search from industry labels to description keywords |
-| [2. Lead enrichment](./project-2-lead-enrichment) | Decision-makers and work emails for the accounts | **26 of 50** companies with a hand-verified contact (52%); **23 emails** found, all validated; about **0.9 credits per contact** |
-| [3. Lead scoring](./project-3-lead-scoring) | A transparent 100-point rubric with fit and reachability groups | 26 contacts scored from **70 to 100**; 19 in Tier A, 7 in Tier B; the score columns cost no credits |
-| [4. Signal-based prospecting](./project-4-intent-signal-based-prospecting) | Hiring and news signals added to the score | Signals are sparse in this niche: **0 of 23** companies hiring for sales or marketing, **3 of 23** with fresh news |
-| [5. Campaign setup](./project-5-cold-email-campaign-setup) | Two audience-specific draft campaigns with deliverability settings | 23 contacts split into 20 and 3 so no one is emailed twice; SPF, DKIM and MX pass, DMARC monitor-only; **nothing sent** |
+| [1. ICP and Account List](./project-1-icp-account-list) | A written ICP and a 50-account target list sourced in Clay | Hand-checked pass rate rose from **30% to 60%** (70% on relevance alone) after I changed the search from industry labels to description keywords |
+| [2. Lead Enrichment](./project-2-lead-enrichment) | Decision-makers and work emails for the accounts | **26 of 50** companies with a hand-verified contact (52%); **23 emails** found, all validated; about **0.9 credits per contact** |
+| [3. Lead Scoring](./project-3-lead-scoring) | A transparent 100-point rubric with fit and reachability groups | 26 contacts scored from **70 to 100**; 19 in Tier A, 7 in Tier B; the score columns cost no credits |
+| [4. Signal-based Prospecting](./project-4-intent-signal-based-prospecting) | Hiring and news signals added to the score | Signals are sparse in this niche: **0 of 23** companies hiring for sales or marketing, **3 of 23** with fresh news |
+| [5. Campaign Setup](./project-5-cold-email-campaign-setup) | Two audience-specific draft campaigns with deliverability settings | 23 contacts split into 20 and 3 so no one is emailed twice; SPF, DKIM and MX pass, DMARC monitor-only; **nothing sent** |
 
 The whole build used about **36 of 1,000 free Clay credits** (roughly 4%).
 
